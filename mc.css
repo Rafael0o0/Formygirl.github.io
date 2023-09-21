@@ -1,0 +1,56 @@
+/* Estilos globales */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el encabezado */
+header {
+    text-align: center;
+    padding: 20px 0;
+    background-color: #e91e63;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+/* Estilos para el contenido de la carta */
+.letter {
+    font-size: 18px;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 20px;
+}
+
+/* Estilos para el pie de página */
+footer {
+    text-align: center;
+    padding: 10px 0;
+    background-color: #e91e63;
+    color: #fff;
+}
+
+footer p {
+    font-size: 16px;
+    margin: 0;
+}
+
+html {
+    zoom: 80%; /* Establece el nivel de zoom al 80% */
+}
